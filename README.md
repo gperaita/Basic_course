@@ -1,2 +1,3 @@
-# Basic_course
+# basic_course
 Introduction to programming in R
+
